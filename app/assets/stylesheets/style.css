@@ -1,0 +1,119 @@
+body {
+background-image: url('pinkflower.jpg');
+background-position: left top;
+background-repeat: no-repeat;
+background-color: ivory;
+}
+
+#headerText {
+font-size: 70px;
+color: #948C7B;
+font-style: italic;
+height: 280px;
+}
+
+#dateText, #taglineText {
+font-size: 30px;
+color: #948C7B;
+font-style: italic;
+
+}
+
+
+#layout-1 .section-1 {
+text-align: right; 
+width: 1375px; 
+
+
+}
+
+#layout-1 .section-2 {
+color: #948C7B; 
+  width: 150px;
+  float:left;
+  //padding-left: 300px;
+}
+
+#layout-1 .section-3 {
+color: red;
+
+}
+
+#layout-1 .section-4 {
+width: 500px; 
+padding-left: 250px;
+color: #948C7B;
+font-style: italic;
+
+}
+
+div.main_img
+{
+  margin: 2px;
+  //border: 1px solid #0000ff;
+  height: auto;
+  width: auto;
+float: right;  
+}
+
+
+
+
+#layout-1 .section-4 {
+  height: 100px;
+}
+
+
+.Limg {
+    float: right;
+    clear: left; 
+    display: inline-block
+    position: static;
+    }
+    
+ h1 {
+ }
+
+ .title {
+ }
+
+ #cool {
+ }
+
+#headerText {
+
+padding-top: 0px;
+line-height: 1.8em;
+
+}
+.img1 {
+    float: right;
+    clear: left; 
+    display: inline-block
+    position: static; 
+    }
+
+div.img
+{
+  margin: 2px;
+  //border: 1px solid #0000ff;
+  height: auto;
+  width: auto;
+  float: right;
+  text-align: center;
+}	
+div.img img
+{
+  display: inline;
+  margin: 3px;
+  border: 1px solid #ffffff;
+}
+div.img a:hover img {border: 1px solid #00CCFF;}
+div.desc
+{
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 2px;
+}
+
